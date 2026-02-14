@@ -1,6 +1,6 @@
-# Frontend — Weekly PIU
+# Weekly PIU (App)
 
-Next.js 14+ (App Router) + TypeScript + Tailwind + Supabase. See root [specs/](../../specs/).
+Next.js 14+ (App Router) + TypeScript + Tailwind + Supabase. See root [specs/](../specs/).
 
 ## Setup
 

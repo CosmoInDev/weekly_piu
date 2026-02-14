@@ -1,7 +1,6 @@
 # Weekly PIU — Rhythm Game Task Board
 
 - **Specs**: [specs/](specs/) — architecture and ERD
-- **Frontend**: [app/frontend/](app/frontend/) — Next.js 14+ (App Router), TypeScript, Tailwind, Supabase
-- **Backend**: [app/backend/](app/backend/) — reserved for backend app
+- **App**: [app/](app/) — Next.js 14+ (App Router), TypeScript, Tailwind, Supabase
 
-Run the frontend from `app/frontend/` (`npm install` then `npm run dev`).
+Run the app from `app/` (`npm install` then `npm run dev`).
